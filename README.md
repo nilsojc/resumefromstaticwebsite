@@ -41,6 +41,10 @@ This is a perfect real-world example to host a Resume in a secure, easily manage
 
  
 
+https://github.com/user-attachments/assets/02270fec-0ff5-4fbf-911f-aec2a65cb469
+
+
+
 
 
 2. **Upload files to S3 Bucket**  
